@@ -1,0 +1,11 @@
+name = "SKIM"
+license = "MIT"
+description = "Een thema voor stichting KIM"
+homepage = "https://stichting-kim.nl"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Doede Jaarsma communicatie"
+  homepage = "https://doedejaarsma.nl"
